@@ -74,6 +74,11 @@ export const games = [
         iconUrl: "https://dhs.dearbornschools.org/wp-content/uploads/sites/60/2020/08/Schoology-Logo.png",
       },
       {
+        name: "MyPortal",
+        title: "MyPortal",
+        iconUrl: "https://filescdn.classlink.com/resources/customlinks/1654262504244-af861c003eebac84587351fcb5afd2b0.jpg",
+      },
+      {
         name: "New Tab",
         title: "New Tab",
         iconUrl: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAAKklEQVR42mNgGAWjYBSMAqoCBBgAacgA9IAwSAfSg4GgNsgADgMAHAbn9f1pvjgAAAAASUVORK5CYII=", // Simple blank icon
