@@ -1,54 +1,54 @@
 export const games = [
       {
-        name: "Skull Island Skirmish",
-        embedCode: <iframe src="https://www.crazygames.com/embed/italian-brainrot-clicker-usp" style="width: 100%; height: 100%;" frameborder="0" allow="gamepad *;"></iframe>,
-        imagePlaceholder: "A pirate ship battling a kraken near a skull-shaped island, black and white sketch style",
-        description: "Defend your treasure in this thrilling tower defense game.",
+        name: "Game Example",
+        embedCode: "Exampe",
+        imagePlaceholder: "test",
+        description: "desc test",
       },
       {
-        name: "Cannonball Chaos",
-        embedCode: "<p>Embed code for Cannonball Chaos</p>",
-        imagePlaceholder: "Exploding cannonballs on a ship deck, dynamic black and white action shot",
-        description: "Aim true and sink the enemy fleet before they sink you!",
+        name: "Game Example",
+        embedCode: "Exampe",
+        imagePlaceholder: "test",
+        description: "desc test",
       },
       {
-        name: "Treasure Hunt Tycoon",
-        embedCode: "<p>Embed code for Treasure Hunt Tycoon</p>",
-        imagePlaceholder: "A treasure map with an X marking the spot, old parchment style, monochrome",
-        description: "Follow the clues, dig for gold, and become the richest pirate.",
+        name: "Game Example",
+        embedCode: "Exampe",
+        imagePlaceholder: "test",
+        description: "desc test",
       },
       {
-        name: "Sea Serpent's Maze",
-        embedCode: "<p>Embed code for Sea Serpent's Maze</p>",
-        imagePlaceholder: "A menacing sea serpent in a dark, stormy sea, detailed black and white illustration",
-        description: "Navigate treacherous waters and escape the beast.",
+        name: "Game Example",
+        embedCode: "Exampe",
+        imagePlaceholder: "test",
+        description: "desc test",
       },
     ];
 
     export const apps = [
       {
-        name: "PiratePad Notes",
-        embedCode: "<p>Embed code for PiratePad Notes</p>",
-        imagePlaceholder: "A quill pen writing on a scroll, black and white, simple icon",
-        description: "Jot down your secret plans and treasure locations.",
+        name: "App Example",
+        embedCode: "Exampe",
+        imagePlaceholder: "test",
+        description: "desc test",
       },
       {
-        name: "Captain's Compass",
-        embedCode: "<p>Embed code for Captain's Compass</p>",
-        imagePlaceholder: "An ornate antique compass, monochrome, detailed",
-        description: "Never lose your way with this trusty navigation tool.",
+        name: "App Example",
+        embedCode: "Exampe",
+        imagePlaceholder: "test",
+        description: "desc test",
       },
       {
-        name: "Jolly Roger Chat",
-        embedCode: "<p>Embed code for Jolly Roger Chat</p>",
-        imagePlaceholder: "Two crossed swords over a skull, classic pirate flag design, white on black",
-        description: "Communicate with your crew securely (not really).",
+        name: "App Example",
+        embedCode: "Exampe",
+        imagePlaceholder: "test",
+        description: "desc test",
       },
       {
-        name: "Lookout Weather",
-        embedCode: "<p>Embed code for Lookout Weather</p>",
-        imagePlaceholder: "Stormy clouds and lightning over a dark sea, dramatic black and white",
-        description: "Check the forecast before setting sail.",
+        name: "App Example",
+        embedCode: "Exampe",
+        imagePlaceholder: "test",
+        description: "desc test",
       },
     ];
 
@@ -69,13 +69,13 @@ export const games = [
         iconUrl: "https://ssl.gstatic.com/classroom/favicon.png",
       },
       {
+        name: "Schoology",
+        title: "Home | Schoology",
+        iconUrl: "https://dhs.dearbornschools.org/wp-content/uploads/sites/60/2020/08/Schoology-Logo.png",
+      },
+      {
         name: "New Tab",
         title: "New Tab",
         iconUrl: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAAKklEQVR42mNgGAWjYBSMAqoCBBgAacgA9IAwSAfSg4GgNsgADgMAHAbn9f1pvjgAAAAASUVORK5CYII=", // Simple blank icon
-      },
-      {
-        name: "Custom Image",
-        title: "My Awesome Page",
-        iconUrl: "https://image.com",
       }
     ];
