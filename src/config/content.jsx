@@ -1,7 +1,7 @@
 export const games = [
       {
         name: "Skull Island Skirmish",
-        embedCode: "<p>Embed code for Skull Island Skirmish</p>",
+        embedCode: <iframe src="https://www.crazygames.com/embed/italian-brainrot-clicker-usp" style="width: 100%; height: 100%;" frameborder="0" allow="gamepad *;"></iframe>,
         imagePlaceholder: "A pirate ship battling a kraken near a skull-shaped island, black and white sketch style",
         description: "Defend your treasure in this thrilling tower defense game.",
       },
